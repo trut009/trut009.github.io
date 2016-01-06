@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://trut009.github.io
+title: The Turnip
+email: tim@rutledges.net
+author: T.R.
+description: Hope you weren't looking for something substantive.
+paginate: 5
+google_analytics: 
